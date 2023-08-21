@@ -4,7 +4,8 @@
 using namespace std;
 
 // } Driver Code Ends
- class Solution {
+
+class Solution {
 public:
     int Count(vector<vector<int> >& matrix) {
         int dx[] = { -1 , 1 ,  0  , 0 , -1  , -1  ,  1  , 1  };
