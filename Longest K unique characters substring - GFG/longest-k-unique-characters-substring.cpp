@@ -6,8 +6,6 @@ using namespace std;
 
 // } Driver Code Ends
 //User function template for C++
-
-
 class Solution{
   public:
     int longestKSubstr(string s, int k) {
