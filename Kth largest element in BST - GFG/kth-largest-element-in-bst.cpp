@@ -94,7 +94,6 @@ struct Node {
 */
 
 // return the Kth largest element in the given BST rooted at 'root'
-
 class Solution
 {
     public:
